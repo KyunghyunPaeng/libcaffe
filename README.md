@@ -1,5 +1,5 @@
 # libcaffe
 - Python interface for caffe
-	= Tester
-	= Trainer
-	= Monitor
+	- Tester
+	- Trainer
+	- Monitor
